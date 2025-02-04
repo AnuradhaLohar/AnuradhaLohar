@@ -5,7 +5,7 @@
          width="40"/>,
    I'm <b>Anuradha Lohar 😄</b>
 </h1> 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnuradhaLohar&label=Profile%20views&color=0e75b6&style=flat" alt="AnuradhaLohar" /> </p>
 <img align="right" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" width="350"/>
 
 
