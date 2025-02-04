@@ -74,5 +74,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+&#128516;;See+You+Again+%5E_%5E;Bye+Bye+!;Are+u+still+reading!)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
