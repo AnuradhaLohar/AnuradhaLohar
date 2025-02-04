@@ -71,4 +71,4 @@
  
 [![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=dracula)](https://github.com/Vishal-beep136/github-readme-quotify)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thank+You+%3AD;See+You+Again+%5E_%5E;Bye+Bye+!;Are+u+still+reading!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+&#128516;;See+You+Again+%5E_%5E;Bye+Bye+!;Are+u+still+reading!)](https://git.io/typing-svg)
